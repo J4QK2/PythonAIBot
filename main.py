@@ -40,6 +40,7 @@ async def cmd_ai(message: Message):
 
 
 
+
 async def main():
     await dp.start_polling(bot)
 
